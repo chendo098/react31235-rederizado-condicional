@@ -36,3 +36,29 @@
     transform: rotate(360deg);
   }
 }
+
+#navbar {
+  color: whitesmoke; 
+}
+
+
+.links {
+  margin: 0px 10px;
+  color: white;
+  text-decoration: none;
+}
+
+.clase1 {
+  background-color: black;
+  color: white;
+}
+
+.clase2{
+  background-color: green;
+  color:white
+}
+
+.clase3{
+  border-color: black;
+  border-style: solid;
+}
